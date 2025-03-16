@@ -58,7 +58,7 @@ Based on the nature of the questions and accuracy results, we assigned the most 
 
 ## 3. Prompts for Different Tasks
 
-I. Choosing Ⅰ、Ⅱ、Ⅲ、Ⅳ correct statements(119、137、145、222、250、272、429、487)： 
+**I. Choosing Ⅰ、Ⅱ、Ⅲ、Ⅳ correct statements(119、137、145、222、250、272、429、487)：**
 
 **Role play prompts templates => One Shot in context learning for choosingⅠ、Ⅱ、Ⅲ、Ⅳ=>Questions=> Let’s think step by step. And choose one of the following: 'A', 'B', 'C', or 'D'.**
 
@@ -109,7 +109,7 @@ D) II, III, and V only
 
 **Let's think step by step.** And choose one of the following: 'A', 'B', 'C', or 'D'.
 
-II. geography、government and politics、macroeconomics(and NOT I)： 
+**II. geography、government and politics、macroeconomics(and NOT I)：**
 
 **Role play prompts =>Few shots In context learning for choosing=> Question**
 
@@ -157,7 +157,7 @@ C) an increase in the real rate of interest.
 D) a proportional increase in the price level.
 
 
-III. european history、us history、world history、Psychology、microeconomics、computer science、Biology (and NOT Ｉ)： 
+**III. european history、us history、world history、Psychology、microeconomics、computer science、Biology (and NOT Ｉ)：** 
 
 **Role play prompts templates =>Question=> Zero shot chain of thought(Let’s think step by step. And choose one of the following: 'A', 'B', 'C', or 'D'.)**
 
