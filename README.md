@@ -79,6 +79,7 @@ I. Choosing Ⅰ、Ⅱ、Ⅲ、Ⅳ correct statements(119、137、145、222、250
 "If you are uncertain, use your expertise to choose the most reasonable answer." 
 
 **[One Shot in context learning for choosingⅠ、Ⅱ、Ⅲ、Ⅳ]**
+
 Question: Classical economists generally believe that 
 
 I. Say's law does not hold 
@@ -93,6 +94,7 @@ D) II and III only
 Correct Answer: B 
 
 **[New Question]**
+
 Now, answer the following question: 
 
 Question: In order for a firm to successfully carry out price discrimination, which 
@@ -108,9 +110,11 @@ D) II, III, and V only
 **Let's think step by step.** And choose one of the following: 'A', 'B', 'C', or 'D'.
 
 II. geography、government and politics、macroeconomics(and NOT I)： 
+
 **Role play prompts =>Few shots In context learning for choosing=> Question**
 
 **[Role play prompt]**
+
 This is a multiple-choice test on macroeconomics. 
 
 You are a professor who has been researching macroeconomics for 20 years. 
@@ -126,6 +130,7 @@ Do not provide explanations or reasoning, just the letter of the correct answer.
 If you are uncertain, use your expertise to choose the most reasonable answer. 
 
 **[Few shots In context learning for choosing]**
+
 Question: Tariffs and quotas 
 A) result in lower domestic prices. 
 B) sometimes raise and sometimes lower the amount of the product 
@@ -142,6 +147,7 @@ D) property owners
 Correct Answer: B 
 
 **[New Question]**
+
 Now, answer the following question: 
 Question: According to Classical economic analysis in the long run an increase in 
 the money supply results in 
@@ -152,9 +158,11 @@ D) a proportional increase in the price level.
 
 
 III. european history、us history、world history、Psychology、microeconomics、computer science、Biology (and NOT Ｉ)： 
+
 **Role play prompts templates =>Question=> Zero shot chain of thought(Let’s think step by step. And choose one of the following: 'A', 'B', 'C', or 'D'.)**
 
 **[Role play prompt]**
+
 This is a multiple-choice test on psychology. 
 
 You are a professor who has been researching psychology for 20 years. 
@@ -170,6 +178,7 @@ Do not provide explanations or reasoning, just the letter of the correct answer.
 If you are uncertain, use your expertise to choose the most reasonable answer. 
 
 **[New Question]**
+
 Now, answer the following question: 
 Question: Which of the following has been linked to a deficit of dopamine? 
 A) major depressive disorder 
@@ -178,6 +187,7 @@ C) Parkinson's disease
 D) Alzheimer's disease 
 
 **[Zero shot chain of thought]**
+
 Let's think step by step. And choose one of the following: 'A', 'B', 'C', or 'D'.
 
 
