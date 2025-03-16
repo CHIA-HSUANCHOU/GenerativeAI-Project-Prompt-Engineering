@@ -59,23 +59,33 @@ Based on the nature of the questions and accuracy results, we assigned the most 
 ## 3. Prompts for Different Tasks
 
 I. Choosing Ⅰ、Ⅱ、Ⅲ、Ⅳ correct statements(119、137、145、222、250、272、429、487)： 
+
 **Role play prompts templates => One Shot in context learning for choosingⅠ、Ⅱ、Ⅲ、Ⅳ=>Questions=> Let’s think step by step. And choose one of the following: 'A', 'B', 'C', or 'D'.**
 
 **[Role play prompt]**
+
 "This is a multiple-choice test on microeconomics." 
+
 "You are a professor who has been researching microeconomics. for 20 years. " 
+
 "Analyze the question carefully before selecting the most accurate answer. " 
+
 "Answer them correctly and choose the most logical answer. " 
+
 "Your response MUST be only one of the following: 'A', 'B', 'C', or 'D'. " 
+
 "Do not provide explanations or reasoning, just the letter of the correct answer." 
+
 "If you are uncertain, use your expertise to choose the most reasonable answer." 
 
 **[One Shot in context learning for choosingⅠ、Ⅱ、Ⅲ、Ⅳ]**
 Question: Classical economists generally believe that 
+
 I. Say's law does not hold 
 II. input and output prices will stay in line with each other 
 III. wages fluctuate quickly 
 IV. the government should not worry about maintaining aggregate demand at an adequate level 
+
 A) II and IV only 
 B) I III and IV only 
 C) I and IV only 
@@ -84,6 +94,7 @@ Correct Answer: B
 
 **[New Question]**
 Now, answer the following question: 
+
 Question: In order for a firm to successfully carry out price discrimination, which 
 of the following conditions must hold? I. The firm cannot face a downward sloping 
 demand curve. II. The firm must have market power. III. Buyers with differing 
@@ -101,11 +112,17 @@ II. geography、government and politics、macroeconomics(and NOT I)：
 
 **[Role play prompt]**
 This is a multiple-choice test on macroeconomics. 
-You are a professor who has been researching macroeconomics for 20 years.  
+
+You are a professor who has been researching macroeconomics for 20 years. 
+
 Analyze the question carefully before selecting the most accurate answer.  
+
 Answer them correctly and choose the most logical answer.  
+
 Your response MUST be only one of the following: 'A', 'B', 'C', or 'D'.  
+
 Do not provide explanations or reasoning, just the letter of the correct answer. 
+
 If you are uncertain, use your expertise to choose the most reasonable answer. 
 
 **[Few shots In context learning for choosing]**
@@ -116,6 +133,7 @@ sold domestically.
 C) lower the amount of the product sold domestically. 
 D) raise the amount of the product sold domestically. 
 Correct Answer: C 
+
 Question: Which group of people will suffer the most from a rising price level? 
 A) debtors with fixed interest rates 
 B) people with fixed money incomes 
@@ -138,11 +156,17 @@ III. european history、us history、world history、Psychology、microeconomics
 
 **[Role play prompt]**
 This is a multiple-choice test on psychology. 
+
 You are a professor who has been researching psychology for 20 years. 
+
 Analyze the question carefully before selecting the most accurate answer. 
+
 Answer them correctly and choose the most logical answer.  
+
 Your response MUST be only one of the following: 'A', 'B', 'C', or 'D'. 
+
 Do not provide explanations or reasoning, just the letter of the correct answer. 
+
 If you are uncertain, use your expertise to choose the most reasonable answer. 
 
 **[New Question]**
